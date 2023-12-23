@@ -1,0 +1,24 @@
+p {
+      font-family: Montserrat;
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 16px;
+    }
+    
+.sd-heading {
+  font-weight: bold;
+  font-size: 48px;
+  color: black;
+}
+
+.sd-description-text {
+  font-size: 24px;
+}
+
+.sd-span-text {
+  cursor: pointer;
+}
+
+.sd-span-text:hover {
+text-decoration: underline;
+}
