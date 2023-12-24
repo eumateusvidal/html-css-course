@@ -1,0 +1,39 @@
+    p {
+      font-family: Arial;
+    }
+
+    .g7-pic {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+
+    .g7-description {
+      font-size: 16px;
+      color: gray;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    .g7-button {
+    background-color: rgb(65, 115, 255);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 100px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    vertical-align: middle;
+    }
+
+    .g7-button:hover {
+      opacity: 85%;
+    }
