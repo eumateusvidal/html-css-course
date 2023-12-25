@@ -1,6 +1,3 @@
-    p {
-      font-family: Arial;
-    }
 
     .g7-pic {
       width: 80px;
@@ -8,13 +5,11 @@
       object-fit: cover;
       border-radius: 50%;
       vertical-align: middle;
-      margin-right: 5px;
     }
 
     .g7-description {
       font-size: 16px;
       color: gray;
-      margin-left: 8px;
       vertical-align: middle;
     }
 

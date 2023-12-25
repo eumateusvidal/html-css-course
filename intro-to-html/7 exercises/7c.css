@@ -1,0 +1,7 @@
+.cat-pic-3 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50%;
+}
