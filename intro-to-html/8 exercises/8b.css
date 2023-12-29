@@ -1,0 +1,10 @@
+.b8-description {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.b8-button-yes,
+.b8-button-no {
+  cursor: pointer;
+}

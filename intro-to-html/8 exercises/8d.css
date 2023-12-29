@@ -1,0 +1,38 @@
+.d8-sign-1,
+.d8-sign-2 {
+padding: 16px 8px 16px 8px;
+font-size: 18px;
+border-color: rgb(213, 213, 213);
+border-style: solid;
+border-width: 1px;
+border-radius: 8px;
+margin-bottom: 8px;
+margin-left: 8px;
+}
+
+.d8-sign-3 {
+display: block;
+padding: 16px 8px 16px 8px;
+font-size: 18px;
+border-color: rgb(213, 213, 213);
+border-style: solid;
+border-width: 1px;
+border-radius: 8px;
+margin-bottom: 8px;
+width: 412px;
+}
+
+.d8-button {
+  padding: 16px 8px 16px 8px;
+  font-size: 18px;
+  font-weight: bold;
+  border-color: rgb(213, 213, 213);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  width: 430px;
+  background-color: rgb(17, 140, 255);
+  color: white;
+  cursor: pointer;
+  }
