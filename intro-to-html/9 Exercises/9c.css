@@ -1,0 +1,13 @@
+.c9-div {
+  font-family: Arial;
+  border: 1px;
+  border-color: rgba(128, 128, 128, 0.70);
+  border-style: solid;
+  padding: 1rem 1rem 1rem 1rem;
+  width: 18.75rem;
+}
+
+.c9-text {
+  margin-block-start: 0;
+  margin-block-end: 1rem;
+}
